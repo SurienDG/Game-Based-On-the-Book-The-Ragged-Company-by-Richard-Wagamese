@@ -1,0 +1,9 @@
+D:\Users\Surien\Documents\#1 Awesome School Courses\Programming\Video Game Design\Ragged Company the Game\Ragged Company the Game\bin\Debug\Ragged Company the Game.exe.config
+D:\Users\Surien\Documents\#1 Awesome School Courses\Programming\Video Game Design\Ragged Company the Game\Ragged Company the Game\bin\Debug\Ragged Company the Game.exe
+D:\Users\Surien\Documents\#1 Awesome School Courses\Programming\Video Game Design\Ragged Company the Game\Ragged Company the Game\bin\Debug\Ragged Company the Game.pdb
+D:\Users\Surien\Documents\#1 Awesome School Courses\Programming\Video Game Design\Ragged Company the Game\Ragged Company the Game\bin\Debug\Ragged Company the Game.xml
+D:\Users\Surien\Documents\#1 Awesome School Courses\Programming\Video Game Design\Ragged Company the Game\Ragged Company the Game\obj\Debug\Ragged_Company_the_Game.Resources.resources
+D:\Users\Surien\Documents\#1 Awesome School Courses\Programming\Video Game Design\Ragged Company the Game\Ragged Company the Game\obj\Debug\Ragged Company the Game.vbproj.GenerateResource.Cache
+D:\Users\Surien\Documents\#1 Awesome School Courses\Programming\Video Game Design\Ragged Company the Game\Ragged Company the Game\obj\Debug\Ragged Company the Game.exe
+D:\Users\Surien\Documents\#1 Awesome School Courses\Programming\Video Game Design\Ragged Company the Game\Ragged Company the Game\obj\Debug\Ragged Company the Game.xml
+D:\Users\Surien\Documents\#1 Awesome School Courses\Programming\Video Game Design\Ragged Company the Game\Ragged Company the Game\obj\Debug\Ragged Company the Game.pdb
